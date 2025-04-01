@@ -1,4 +1,4 @@
-package com.example.PublicisSapient.Model;
+package com.example.PS.Model;
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.Embedded;
