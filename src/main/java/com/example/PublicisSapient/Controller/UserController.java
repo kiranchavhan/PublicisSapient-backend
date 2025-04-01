@@ -1,7 +1,7 @@
-package com.example.PublicisSapient.Controller;
+package com.example.PS.Controller;
 
-import com.example.PublicisSapient.Model.User;
-import com.example.PublicisSapient.Service.UserService;
+import com.example.PS.Model.User;
+import com.example.PS.Service.UserService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
